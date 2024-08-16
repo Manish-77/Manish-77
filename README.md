@@ -1,4 +1,6 @@
-<img align = "center" alt = "Welcome" src="C:\Users\Manish\Pictures\Screenshots\Screenshot 2024-08-16 223727.png" >
+<h1 align="center">
+    <img src="Hello.png">
+</h1>
 <h1 align="center">Hi 👋, I'm Manish Chaudhari</h1>
 <h3 align="center">A passionate Computer Engineering Student</h3>
 
