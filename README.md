@@ -4,7 +4,7 @@
 <h1 align="center">Manish Chaudhari</h1>
 <h3 align="center">A Passionate Computer Engineering Student</h3>
 
-- 📫 How to reach me **manishchaudhari.nbnstic.comp@gmail.com**
+- 📫 How to reach me **manishtchaudhari777@gmail.com**
 <img align = "right" alt = "coding" width ="400" src=https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
